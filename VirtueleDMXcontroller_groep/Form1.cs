@@ -15,5 +15,10 @@ namespace VirtueleDMXcontroller_groep
         {
             InitializeComponent();
         }
+
+        private void uC_toestel1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
